@@ -21,6 +21,3 @@ const element = (
 )
 
 ReactDOM.render(element, document.getElementById('content'))
-
-
-dental-assisting-cad-cam-combo-discount
